@@ -32,8 +32,6 @@ GitHub User Finder - это desktop-приложение с графически
 
 ### API эндпоинты, используемые в приложении:
 
-#### Поиск пользователей
-```httpGET https://api.github.com/search/users?q={username}&per_page=20
 
 ## Примеры использования
 **Сценарий 1. Поиск пользователя**
